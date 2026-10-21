@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../../../../../source/repos/StudentTeacher_practical/part2/Authentication_API.Tests/Authentication_API.Tests.csproj" />
+  <Project Path="../../../../../source/repos/StudentTeacher_practical/part2/Authentication_API/Authentication_API.csproj" />
+  <Project Path="../../../../../source/repos/StudentTeacher_practical/Part3/StudentTeacher_Practical/StudentTeacher_Practical.csproj" />
+</Solution>
